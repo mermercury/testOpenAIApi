@@ -1,7 +1,7 @@
 import { ChatOpenAI } from "@langchain/openai";
 
 const model = new ChatOpenAI({
-  openAIApiKey: "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",
+  openAIApiKey: "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",
   temperatures: 0.9,
 });
 
